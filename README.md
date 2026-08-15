@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Weverton Castelo
+# 👨🏻💻 Weverton Castelo
 
 ### `Desenvolvedor FullStack`
 
@@ -83,9 +83,9 @@ Também compartilho meus projetos, estudos e conteúdos através do meu canal no
 
 <p align="center">
 
-<img src="stats/github-stats.svg" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=WevertonCastelo&show_icons=true&theme=tokyonight" height="180" />
 
-<img src="stats/top-languages.svg" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonCastelo&layout=compact&theme=tokyonight" height="180" />
 
 </p>
 
@@ -95,7 +95,7 @@ Também compartilho meus projetos, estudos e conteúdos através do meu canal no
 
 <p align="center">
 
-<img src="stats/github-streak.svg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WevertonCastelo&theme=tokyonight" />
 
 </p>
 
@@ -106,11 +106,11 @@ Também compartilho meus projetos, estudos e conteúdos através do meu canal no
 <p align="center">
 
 <a href="https://github.com/WevertonCastelo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WevertonCastelo&repo=SEU_REPOSITORIO_1&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WevertonCastelo&repo=NOME_DO_SEU_REPO_AQUI&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/WevertonCastelo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WevertonCastelo&repo=SEU_REPOSITORIO_2&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WevertonCastelo&repo=NOME_DE_OUTRO_REPO_AQUI&theme=tokyonight" />
 </a>
 
 </p>
@@ -126,30 +126,3 @@ Também compartilho meus projetos, estudos e conteúdos através do meu canal no
 🧠 Aprendendo novas tecnologias
 🎥 Produzindo conteúdo sobre programação
 🐙 Construindo meu portfólio no GitHub
-```
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-
-<a href="https://www.youtube.com/@weverton.engineer">
-<img src="https://img.shields.io/badge/YouTube-Weverton%20Engineer-red?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://github.com/WevertonCastelo">
-<img src="https://img.shields.io/badge/GitHub-WevertonCastelo-black?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💚 Obrigado por visitar meu perfil!
-
-`Código • Tecnologia • Aprendizado • Evolução`
-
-</p>
