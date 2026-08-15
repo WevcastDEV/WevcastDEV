@@ -82,11 +82,8 @@ Também compartilho meus projetos, estudos e conteúdos através do meu canal no
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=WevertonCastelo&show_icons=true&theme=tokyonight" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonCastelo&layout=compact&theme=tokyonight" height="180" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=WevertonCastelo&show_icons=true&theme=tokyonight&locale=pt-br" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonCastelo&theme=tokyonight&locale=pt-br&custom_title=Tecnologias" height="160" />
 </p>
 
 ---
