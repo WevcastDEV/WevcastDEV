@@ -1,10 +1,3 @@
-Com certeza! Peguei toda a estrutura incrível que você enviou (que usa seções retráteis `<details>`, os crachás super detalhados, os gráficos de atividade, etc) e **adaptei 100% com as suas informações, redes sociais, canal do YouTube, tecnologias e o seu tema (Tokyonight)**.
-
-Aqui está o código completo. É só **copiar e colar** no seu `README.md`.
-
-*(Lembre-se apenas de preencher as partes escritas `SEU_REPOSITORIO_1`, etc., com os nomes dos seus projetos nas seções "Meus Principais Projetos")*.
-
-```html
 <h1 align="center">👨🏻‍💻 Weverton Castelo</h1>
 
 <p align="center">
@@ -101,7 +94,6 @@ Aqui está o código completo. É só **copiar e colar** no seu `README.md`.
 
   <h3>📈 Gráfico de Atividade</h3>
   <p>
-    <!-- Gráfico com cores combinando com o tema tokyonight -->
     <a href="https://github.com/WevertonCastelo"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=WevertonCastelo&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=FFFFFF&hide_border=true&locale=pt-br" /></a>
   </p>
 
@@ -114,7 +106,6 @@ Aqui está o código completo. É só **copiar e colar** no seu `README.md`.
 
 <details> 
   <summary><h2>📺 Últimos Vídeos do YouTube</h2></summary>
-  <!-- Para que seus vídeos apareçam aqui automaticamente, é necessário configurar a action do YouTube ou colocar os links diretos das thumbnails -->
   <p align="center">
     <i>Inscreva-se no canal para acompanhar os novos conteúdos sobre Engenharia de Software e Programação!</i><br><br>
     <a href="https://www.youtube.com/@weverton.engineer?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Inscrever_se_no_Canal-red?style=for-the-badge&logo=video&logoColor=white"/></a>
@@ -130,7 +121,6 @@ Aqui está o código completo. É só **copiar e colar** no seu `README.md`.
     </tr>
     <tr>
       <td>
-        <!-- Adicione os links dos seus apoiadores aqui no futuro -->
         <i>Ainda não há apoiadores. Seja o primeiro!</i>
       </td>
     </tr>
@@ -138,4 +128,3 @@ Aqui está o código completo. É só **copiar e colar** no seu `README.md`.
 
   <a href="https://github.com/WevertonCastelo"><img alt="Mais sobre patrocínios" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Como%20Apoiar%20Meus%20Projetos-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
-```
