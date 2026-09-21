@@ -20,14 +20,13 @@
 <br/>
 
 <!-- Stats + Top Languages — Lado a lado (49% cada) -->
-<!-- NOTA: Substitua YOUR-INSTANCE.vercel.app pela URL do seu fork do github-readme-stats na Vercel (Fase 2) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-INSTANCE.vercel.app/api?username=WevcastDEV&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=WevcastDEV&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Weverton's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=WevcastDEV&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0A101F&amp;card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=WevcastDEV&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;title_color=0891B2&amp;icon_color=7C3AED&amp;text_color=0F172A&amp;bg_color=FFFFFF&amp;card_width=500" alt="Weverton's GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=WevcastDEV&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=WevcastDEV&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=WevcastDEV&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=22D3EE&amp;text_color=94A3B8&amp;bg_color=0A101F&amp;card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=WevcastDEV&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=0891B2&amp;text_color=0F172A&amp;bg_color=FFFFFF&amp;card_width=500" alt="Top languages" />
 </picture>
 
 </div>
