@@ -1,0 +1,38 @@
+[
+  {
+    "name": "BioNutri Enterprise OS",
+    "repo": "WevcastDEV/bionutri-os",
+    "description": "SaaS Clínico completo para gestão nutricional de alta performance com PWA e nuvem",
+    "tags": ["Next.js", "Firebase", "TypeScript", "TailwindCSS"]
+  },
+  {
+    "name": "Radar de Oportunidades",
+    "repo": "WevcastDEV/radar",
+    "description": "SaaS B2B para prospecção automatizada, inteligência comercial e funil com WhatsApp",
+    "tags": ["NestJS", "Next.js", "TypeScript", "PostgreSQL", "Docker"]
+  },
+  {
+    "name": "Lead Prospector CRM",
+    "repo": "WevcastDEV/lead-prospector-crm",
+    "description": "CRM comercial com captura via mapas, Kanban interativo e operação offline resiliente",
+    "tags": ["React", "TypeScript", "TailwindCSS", "Node.js"]
+  },
+  {
+    "name": "WCTech Pro Hub",
+    "repo": "WevcastDEV/wctech-portal",
+    "description": "Plataforma institucional e portal de serviços corporativos em infraestrutura e software",
+    "tags": ["Firebase", "Next.js", "TailwindCSS"]
+  },
+  {
+    "name": "WhatsApp Automation CRM",
+    "repo": "WevcastDEV/whatsapp-extension-crm",
+    "description": "Extensão Chrome MV3 com injeção DOM, gerenciamento de cadência e segurança anti-ban",
+    "tags": ["JavaScript", "Chrome MV3", "TailwindCSS"]
+  },
+  {
+    "name": "Segundo Cérebro PKM",
+    "repo": "WevcastDEV/obsidian-second-brain",
+    "description": "Sistema de gestão de conhecimento para engenharia de software e arquitetura PARA",
+    "tags": ["Obsidian", "Markdown", "Zettelkasten"]
+  }
+]
