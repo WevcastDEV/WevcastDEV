@@ -61,8 +61,8 @@
   <img src="https://img.shields.io/badge/WhatsApp-0A101F?style=for-the-badge&logo=whatsapp&logoColor=10B981&labelColor=0A101F" alt="WhatsApp" />
 </a>
 &nbsp;&nbsp;
-<a href="https://wctech.web.app/">
-  <img src="https://img.shields.io/badge/Website-0A101F?style=for-the-badge&logo=google-chrome&logoColor=22D3EE&labelColor=0A101F" alt="Website" />
+<a href="https://portfoliowev.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfólio-0A101F?style=for-the-badge&logo=google-chrome&logoColor=22D3EE&labelColor=0A101F" alt="Portfólio" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.youtube.com/@weverton.engineer">
